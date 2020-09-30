@@ -1,5 +1,5 @@
 
-# Flutter Weather
+# Flutter Weather <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="android" width="22" height="22"/> 
 
  <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 A Flutter application to view current weather status.
