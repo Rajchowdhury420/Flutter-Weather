@@ -32,6 +32,7 @@ class WeatherApp extends StatelessWidget {
       title: 'Flutter Weather App',
       theme: AppStateContainer.of(context).theme,
       home: WeatherScreen(),
+      debugShowCheckedModeBanner: false,
       routes: Routes.mainRoute,
     );
   }
