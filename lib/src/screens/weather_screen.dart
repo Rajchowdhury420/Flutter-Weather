@@ -73,7 +73,7 @@ class _WeatherScreenState extends State<WeatherScreen>
                 itemBuilder: (context) => <PopupMenuEntry<OptionsMenu>>[
                       PopupMenuItem<OptionsMenu>(
                         value: OptionsMenu.changeCity,
-                        child: Text("change city"),
+                        child: Text("Change City"),
                       ),
                       PopupMenuItem<OptionsMenu>(
                         value: OptionsMenu.settings,
